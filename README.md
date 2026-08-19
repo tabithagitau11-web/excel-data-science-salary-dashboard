@@ -1,5 +1,10 @@
 Data Science Salary Calculator
 
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Project-orange)
+![Portfolio](https://img.shields.io/badge/Portfolio-Project-purple)
+
 A professional Excel dashboard built to analyze 32,673 global data science job postings using interactive filters and dynamic formulas.
 
 The dashboard allows users to compare median salaries across different job titles, countries, and employment types.
