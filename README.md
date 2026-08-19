@@ -1,4 +1,4 @@
-Data Science Salary Calculator (Excel Dashboard)
+Data Science Salary Calculator
 
 A professional Excel dashboard built to analyze 32,673 global data science job postings using interactive filters and dynamic formulas.
 
