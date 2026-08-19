@@ -6,8 +6,6 @@ The dashboard allows users to compare median salaries across different job title
 
 Dashboard Preview
 
-Replace this after uploading your image.
-
 ![Dashboard](dashboard-thumbnail.png)
 
 Project Overview
