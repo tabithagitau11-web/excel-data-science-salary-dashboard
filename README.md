@@ -85,44 +85,20 @@ Interactive Reporting
 
 Data Visualization
 
-Insight 1
+Key Insights
 
-Senior Data Scientist has the highest median salary among the major roles.
+Senior Data Scientists earn the highest median salaries.
 
-The workbook shows a median salary of approximately $157,500 for Senior Data Scientists.
+Salary varies significantly across countries.
 
-Insight 2
+Full-time roles generally pay more than contract positions.
 
-Senior Data Engineers also command premium salaries.
+Data Scientists earn more than Data Analysts.
 
-Median salary is approximately $147,500, highlighting the value of infrastructure-focused roles.
+The dashboard updates instantly through interactive filters.
 
-Insight 3
+Files
 
-Data Scientists earn higher median salaries than Data Analysts.
+Dashboard.xlsx
 
-Data Scientist: $105,300
-
-Data Analyst: $87,750
-
-This suggests a substantial salary gap between analytical and modeling-focused positions.
-
-Insight 4
-
-Full-time positions generally offer higher median salaries than contractor or temporary roles.
-
-The employment-type lookup table indicates Full-time roles have a median salary of about $89,100.
-
-Insight 5
-
-Salary varies significantly by country.
-
-For example:
-
-Australia: about $109,500
-
-Argentina: about $111,175
-
-Albania: about $49,950
-
-The dashboard makes these comparisons instantly through country filtering.
+dashboard-thumbnail.png
